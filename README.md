@@ -19,7 +19,7 @@ A machine learning web application that predicts passenger survival on the Titan
 
 ## 🚀 Live Demo
 
-[View App](https://your-app-url.streamlit.app)
+[View App] https://titanicsurvivedpredection-zeinabmahfouz.streamlit.app/
 
 ## 💻 Local Installation
 ```bash
